@@ -1,0 +1,15 @@
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\bin\Debug\ProductService.dll
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\bin\Debug\ProductService.pdb
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\bin\Debug\ProductDao.dll
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\bin\Debug\ShopifyProducts.Core.dll
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\bin\Debug\EntityFramework.dll
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\bin\Debug\ShopifyProducts.Core.pdb
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\bin\Debug\ProductDao.pdb
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\bin\Debug\EntityFramework.xml
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\obj\Debug\ShopifyProducts.Services.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\obj\Debug\ProductService.dll
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductService\obj\Debug\ProductService.pdb

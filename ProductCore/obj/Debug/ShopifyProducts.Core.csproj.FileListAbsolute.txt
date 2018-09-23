@@ -1,0 +1,5 @@
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductCore\bin\Debug\ShopifyProducts.Core.dll
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductCore\bin\Debug\ShopifyProducts.Core.pdb
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductCore\obj\Debug\ShopifyProducts.Core.dll
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductCore\obj\Debug\ShopifyProducts.Core.pdb
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\ShopifyWebDeveloperChallenge\ProductCore\obj\Debug\ShopifyProducts.Core.csprojResolveAssemblyReference.cache
